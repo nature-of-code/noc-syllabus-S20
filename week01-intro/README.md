@@ -2,10 +2,12 @@
 
 ## Class Intro / Overview
 * [Related and Past Projects](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Related-Work)
+* [Slides](https://docs.google.com/presentation/d/1VIpgnsLc7dr-UVmQi_gY9o5H98RFFw8UbrvpxheI57I/edit?usp=sharing)
+* [Acknowledgements, Preface, Chap 1 and 2 book draft](https://drive.google.com/open?id=1WPTSvvyaqBvvaD96eAbHE8d8wGP8vjU8)
 
 ## Week 1 Tutorials and Resources
 
-It's  not realistic for you to consume everything that is below. Pick and choose what is most helpful and useful to you. Feel free to send me feedback as what doesn't work well or you feel is missing!
+It's not realistic for you to consume everything that is below. Pick and choose what is most helpful and useful to you. Feel free to send me feedback as what doesn't work well or you feel is missing!
 
 ### Development Environments
 * [Processing](http://www.processing.org)
