@@ -39,6 +39,10 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ### Week 14 - [Final Project Presentations](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Final-Projects), May 5
 
+## Land Acknowledgement
+
+This classroom, New York University and Brooklyn, NY is situated on the continuously inhabited land of the Lenni Lenape people. I am making a donation to the [American Indian Community House](https://aich.org/) for the use of this space.
+
 ## Evaluation
 * Please read [ITP's policy on pass/fail](http://help.itp.nyu.edu/academic-policies/pass-fail)
 * You are required to attend all class meetings and submit all weekly assignments and a final project.
