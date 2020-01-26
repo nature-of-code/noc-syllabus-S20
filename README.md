@@ -4,6 +4,7 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ## Info
 - Daniel Shiffman, Tuesdays, 9:00am - 11:40am
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 - [All class dates](https://itp.nyu.edu/help/sp20-class-dates-deadlines/)
 - Office Hours (use NYU google calendar appts, link via class mailing list)
 
