@@ -43,8 +43,8 @@ It's probably not realistic for you to consume everything that is below. Pick an
 
 ### Chapter 2: Forces
 * [2.1: Forces](http://editor.p5js.org/natureofcode/sketches/B13QnJZul)
-* [2.2: Forces acting on many objects](http://editor.p5js.org/natureofcode/sketches/SJC2hk-dl)
-* [2.3: Gravity scaled by mass](http://editor.p5js.org/natureofcode/sketches/HyQea1W_l)
+* [2.2: Forces with mass](http://editor.p5js.org/natureofcode/sketches/SJC2hk-dl)
+* [2.3: Realistic Gravity with Mass](http://editor.p5js.org/natureofcode/sketches/HyQea1W_l)
 * [2.4: Including friction](http://editor.p5js.org/natureofcode/sketches/B1isyebug)
 * [2.5: Fluid Resistance](http://editor.p5js.org/natureofcode/sketches/H1DmxeW_g)
 * [2.6: Attraction](http://editor.p5js.org/natureofcode/sketches/HyWqel-de)
