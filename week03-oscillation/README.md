@@ -1,5 +1,9 @@
 # Trigonometry and Oscillation
-It's probably not realistic for you to consume everything that is below. Pick and choose what is most helpful and useful to you. Feel free to send me feedback as what doesn't work well or you feel is missing!
+
+It's definitely not realistic for you to consume everything that is below. Pick and choose what is most helpful and interesting to you. Feel free to send me feedback as what doesn't work well or you feel is missing!
+
+* [slides](https://docs.google.com/presentation/d/1Pto730qGv6t1oh_FiD3hkaJCJ67d_httOJ7qKVGhAs8/edit?usp=sharing)
+* [Chapter 3 revised PDF w/ p5.js!](https://drive.google.com/open?id=1IQ-i6S6rIVpnR8R8K1M0KpsO1ary9wOr)
 
 ## Nature of Code Chapter 3
 * [Chapter 3 text: Processing](http://natureofcode.com/book/chapter-3-oscillation/)
