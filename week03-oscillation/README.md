@@ -20,17 +20,6 @@ It's definitely not realistic for you to consume everything that is below. Pick 
 * [Butterfly Wings Challenge](https://thecodingtrain.com/CodingChallenges/060-butterfly-wings.html)
 * [Times Tables and the Cardioid](https://thecodingtrain.com/CodingChallenges/133-times-tables-cardioid.html)
 
-## Fourier Transforms
-* [But what is the Fourier Transform? A visual introduction](https://youtu.be/spUNpyF58BY) by 3Blue1Brown
-* [What is a Fourier Series](https://youtu.be/ds0cmAV-Yek) by Smarter Every Day
-* [Fourier Series Coding Challenge](https://thecodingtrain.com/CodingChallenges/125-fourier-series.html)
-* [Fourier Transform Drawing with Epicycles Coding Challenge Part 1](https://thecodingtrain.com/CodingChallenges/130.1-fourier-transform-drawing.html)
-* [Fourier Transform Drawing with Epicycles Coding Challenge Part 2](https://thecodingtrain.com/CodingChallenges/130.2-fourier-transform-drawing.html)
-* [Fourier Transform Drawing with Epicycles Coding Challenge Part 3](https://thecodingtrain.com/CodingChallenges/130.3-fourier-transform-drawing.html)
-
-## Pendulums and Springs
-* [Double Pendulum Coding Challenge](https://thecodingtrain.com/CodingChallenges/093-double-pendulum.html)
-
 ## Simple Harmonic Motion and GIF Loops
 * [Golan Levin's Loops lecture](https://github.com/golanlevin/lectures/tree/master/lecture_loops) and [assignment template code](http://cmuems.com/2018/60212f/deliverables/2-due-9-14/#gif)
 * [Cube Wave coding challenge video](https://www.youtube.com/watch?v=H81Tdrmz2LA), [code](https://github.com/CodingTrain/Rainbow-Code/tree/master/CodingChallenges/CC_86_beesandbombs), [Cube Wave demo](http://thecodingtrain.com/CodingChallenges/CC_86_beesandbombs/), [original beesandbombs GIF](https://beesandbombs.tumblr.com/post/149654056864/cube-wave)
@@ -41,6 +30,17 @@ It's definitely not realistic for you to consume everything that is below. Pick 
 * [GIF loop gallery from Golan Levin](http://cmuems.com/2018/60212f/deliverables/2-due-9-14/gif-loop-gallery/)
 * [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
 * [Demo of Oscillating Movement and Sine Wave](https://www.youtube.com/watch?v=PhvJcVDuJsY#t=55)
+
+## Pendulums and Springs
+* [Double Pendulum Coding Challenge](https://thecodingtrain.com/CodingChallenges/093-double-pendulum.html)
+
+## Fourier Transforms
+* [But what is the Fourier Transform? A visual introduction](https://youtu.be/spUNpyF58BY) by 3Blue1Brown
+* [What is a Fourier Series](https://youtu.be/ds0cmAV-Yek) by Smarter Every Day
+* [Fourier Series Coding Challenge](https://thecodingtrain.com/CodingChallenges/125-fourier-series.html)
+* [Fourier Transform Drawing with Epicycles Coding Challenge Part 1](https://thecodingtrain.com/CodingChallenges/130.1-fourier-transform-drawing.html)
+* [Fourier Transform Drawing with Epicycles Coding Challenge Part 2](https://thecodingtrain.com/CodingChallenges/130.2-fourier-transform-drawing.html)
+* [Fourier Transform Drawing with Epicycles Coding Challenge Part 3](https://thecodingtrain.com/CodingChallenges/130.3-fourier-transform-drawing.html)
 
 ## Supplemental Reading
 * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
