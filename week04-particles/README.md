@@ -9,9 +9,11 @@
 * [Processing chapter 4 example code](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp04_systems)
 
 ### ES6 Classes and inheritance
+* [ES6 classes videos from ICM](https://youtu.be/xG2Vbnv0wvg?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+* [Inheritance video tutorial](https://youtu.be/MfxBfRD0FVU)
+* [Polymorphism video tutorial]( https://youtu.be/8a5BkwuZRK0)
 * [classes documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 * [classes and inheritance](https://medium.com/ecmascript-2015/es6-classes-and-inheritance-607804080906) by Maciej Rzepiński
-* [ES6 classes videos from ICM](https://youtu.be/xG2Vbnv0wvg?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
 ### Arrow Functions, Higher-Order Functions
 * [Particle System video with higher order functions](https://youtu.be/m9bRVQ_-DXY?list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
@@ -48,3 +50,4 @@
 * [4.5: Particle system inheritance and polymorphism](http://editor.p5js.org/natureofcode/sketches/rkJJFxbOe)
 * [4.6: Particle system with forces](http://editor.p5js.org/natureofcode/sketches/rkrHFebul)
 * [4.7: Particle system with repeller](http://editor.p5js.org/natureofcode/sketches/rkVTFxZ_e)
+* [4.8: Particle system with texture (smoke)](https://editor.p5js.org/natureofcode/sketches/Bkp87YXPX)
