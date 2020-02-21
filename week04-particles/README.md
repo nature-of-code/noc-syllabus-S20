@@ -1,5 +1,7 @@
 # Particle Systems
 
+* [Nature of Code 2.0 Chapter 4 draft pdf](https://drive.google.com/open?id=1WPTSvvyaqBvvaD96eAbHE8d8wGP8vjU8)
+
 ## Tutorials and Resources
 * [Particle System tutorial video: p5.js](https://thecodingtrain.com/CodingChallenges/078-simple-particle-system.html), [web editor code](https://editor.p5js.org/codingtrain/sketches/D4ty3DgZB)
 * [Fireworks tutorial video: p5.js](http://thecodingtrain.com/CodingChallenges/CC_27_Fireworks_2D_p5/), [web editor code](https://editor.p5js.org/codingtrain/sketches/O2M0SO-WO), [Processing 3D Fireworks!](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_027_FireWorks/Processing/CC_027_FireWorks_3D)
