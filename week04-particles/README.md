@@ -4,7 +4,7 @@
 
 ## Tutorials and Resources
 * [Particle System tutorial video: p5.js](https://thecodingtrain.com/CodingChallenges/078-simple-particle-system.html), [web editor code](https://editor.p5js.org/codingtrain/sketches/D4ty3DgZB)
-* [Fireworks tutorial video: p5.js](http://thecodingtrain.com/CodingChallenges/CC_27_Fireworks_2D_p5/), [web editor code](https://editor.p5js.org/codingtrain/sketches/O2M0SO-WO), [Processing 3D Fireworks!](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_027_FireWorks/Processing/CC_027_FireWorks_3D)
+* [Fireworks tutorial video: p5.js](https://thecodingtrain.com/CodingChallenges/027-fireworks.html), [web editor code](https://editor.p5js.org/codingtrain/sketches/O2M0SO-WO), [Processing 3D Fireworks!](https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_027_FireWorks/Processing/CC_027_FireWorks_3D)
 * [Chapter 4 text: Processing](http://natureofcode.com/book/chapter-4-particle-systems/)
 * [Chapter 4 videos: Processing](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Z9hI4mSgx2FlE5w8zvjmEy)
 * [p5.js chapter 4 example code](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp04_systems)
