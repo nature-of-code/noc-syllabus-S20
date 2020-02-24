@@ -27,9 +27,6 @@
 * [QuadTree Coding Challenge 2](https://thecodingtrain.com/CodingChallenges/098.2-quadtree.html)
 * [QuadTree Coding Challenge 3](https://thecodingtrain.com/CodingChallenges/098.3-quadtree.html)
 
-## Code from in class
-* [Particle Burst](https://editor.p5js.org/natureofcode/sketches/To9VJR2gv)
-
 ## Assignment
 * [Simulation Project](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Simulation-Project)
 
