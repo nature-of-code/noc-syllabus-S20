@@ -13,6 +13,7 @@
 * [Reas Process Compendium](https://vimeo.com/22955812)
 * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
 * [Braitenberg Vehicles](http://amzn.to/2EM5JGS)
+* [The Braitenberg Vehicles](https://youtu.be/A-fxij3zM7g) video by Brian Douglas
 
 ## Finding closest point on line and dot product
 * [Dot Product and Scalar Projection video](https://youtu.be/_ENEsV_kNx8) -- uses Processing
