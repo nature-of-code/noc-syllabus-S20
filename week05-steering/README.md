@@ -1,5 +1,7 @@
 # Autonomous Agents
 
+* [Chapter 6 DRAFT p5.js PDF](https://drive.google.com/open?id=1x83NY1z_WvQ6jH3d6En7y8M0mhYrTCLl)
+
 ## Tutorials and Resources
 * [Kadenze Session 3: p5.js](https://www.kadenze.com/courses/the-nature-of-code/info)
 * [Steering Behaviors Coding Challenge: p5.js](https://thecodingtrain.com/CodingChallenges/059-steering-text-paths.html)
