@@ -45,18 +45,10 @@
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp09_ga)
 * Traveling Salesperson GA:
     * [TSP Code in Web Editor](https://editor.p5js.org/codingtrain/sketches/EGjTrkkf9)
-    * [TSP Challenge 1](https://thecodingtrain.com/CodingChallenges/035.1-tsp.html)
-    * [TSP Challenge 2](https://thecodingtrain.com/CodingChallenges/035.2-tsp.html)
-    * [TSP Challenge 3](https://thecodingtrain.com/CodingChallenges/035.3-tsp.html)
-    * [TSP Challenge 4](https://thecodingtrain.com/CodingChallenges/035.4-tsp.html)
-    * [TSP Challenge 5](https://thecodingtrain.com/CodingChallenges/035.5-tsp.html)
+    * Video series: [TSP Challenge 1](https://thecodingtrain.com/CodingChallenges/035.1-tsp.html), [TSP Challenge 2](https://thecodingtrain.com/CodingChallenges/035.2-tsp.html), [TSP Challenge 3](https://thecodingtrain.com/CodingChallenges/035.3-tsp.html), [TSP Challenge 4](https://thecodingtrain.com/CodingChallenges/035.4-tsp.html), [TSP Challenge 5](https://thecodingtrain.com/CodingChallenges/035.5-tsp.html)
 * Evolving Steering Behaviors
-    * [Evolutionary Steering Code in Web Editor](https://editor.p5js.org/codingtrain/sketches/xgQNXkxx1)
-    * [Evolutionary Steering Challenge 1](https://thecodingtrain.com/CodingChallenges/069.1-steering-evolution.html)
-    * [Evolutionary Steering Challenge 2](https://thecodingtrain.com/CodingChallenges/069.2-steering-evolution.html)
-    * [Evolutionary Steering Challenge 3](https://thecodingtrain.com/CodingChallenges/069.3-steering-evolution.html)
-    * [Evolutionary Steering Challenge 4](https://thecodingtrain.com/CodingChallenges/069.4-steering-evolution.html)
-    * [Evolutionary Steering Challenge 5](https://thecodingtrain.com/CodingChallenges/069.5-steering-evolution.html)
+    * [Evolutionary Steering Code in Web Editor](https://editor.p5js.org/codingtrain/sketches/xgQNXkxx1),
+    * [Steering Video 1](https://thecodingtrain.com/CodingChallenges/069.1-steering-evolution.html), [Steering Video 2](https://thecodingtrain.com/CodingChallenges/069.2-steering-evolution.html), [Steering Video 3](https://thecodingtrain.com/CodingChallenges/069.3-steering-evolution.html), [Steering Video 4](https://thecodingtrain.com/CodingChallenges/069.4-steering-evolution.html), [Steering Video 5](https://thecodingtrain.com/CodingChallenges/069.5-steering-evolution.html)
 
 ## Project References
 * [Genetic Programming Evolution of Mona Lisa](https://rogerjohansson.blog/2008/12/07/genetic-programming-evolution-of-mona-lisa/)
