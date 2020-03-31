@@ -1,5 +1,7 @@
 # Genetic Algorithms
 
+**[google doc notes and assignment for GA algorithms](https://docs.google.com/document/d/1RqU9LGIWNjnfROiOiwWvDvfn1FLP0NOy1Z9REFRUHc8/edit#)**
+
 ## What is a "Genetic Algorithm"?
 * Traditional GA (Search)
 * Interactive Selection
