@@ -10,6 +10,7 @@
 
 ## ml5.js
 * [ml5 website](https://ml5js.org/), [ml5 github](https://github.com/ml5js)
+* [Introduction to Machine Learning slides](https://docs.google.com/presentation/d/1C5V6YOs4hgWFeKKdpGwNjeRLuYOCwipLlSzKNOzsUnQ/edit). These slides are from @joeyklee's [friendly introduction to machine learning and ml5.js - workshop](https://github.com/ml5js/ml5-friendly-intro-to-ml-2019f#introduction-to-machine-learning) and also based off of @yining1023's [Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web)
 * [Intro to ml5.js video tutorial](https://youtu.be/jmznx0Q1fP0?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
 * [Train Your Own Neural Network with ml5.js video tutorial](https://thecodingtrain.com/learning/ml5/6.1-train-your-own.html)
 * [Teachable Machine with ml5.js](https://thecodingtrain.com/TeachableMachine/)
