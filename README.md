@@ -20,25 +20,25 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ### Week 5 - [Autonomous Agents](week05-steering), Feb 25
 
-### Week 6 - [Physics Libraries](week06-physics-libs), Mar 3
+### Week 6 - Field Trip to Zero Space
 
 ### Week 7 - [Simulation Project Presentations](https://github.com/shiffman/NOC-S20/wiki/Simulation-Project), March 10
 
 ### No class Tuesday, March 17
 
-### Week 8 - [Genetic Algorithms](week08-genetic-algorithm), Mar 24
+### Week 8 (REMOTE) - [Genetic Algorithms](week08-genetic-algorithm), Mar 24
 
-### Week 9 - [Neural Networks](week09-neural-network), Mar 31
+### Week 9 (REMOTE) - [Neural Networks](week09-neural-network), Mar 31
 
-### Week 10 - [Neuro-evolution](week10-neuroevolution), April 7
+### Week 10 (REMOTE) - [Neuro-evolution](week10-neuroevolution), April 7
 
-### Week 11 - [Final Project Proposals](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Project-Proposals), Apr 14
+### Week 11 (REMOTE) - [Final Project Proposals](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Project-Proposals), Apr 14
 
-### Week 12 - [Final Project Proposals](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Project-Proposals), Apr 21
+### Week 12 (REMOTE) - [Final Project Proposals](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Project-Proposals), Apr 21
 
-### Week 13 - [User Testing Workshop](https://github.com/nature-of-code/noc-syllabus-S20/wiki/User-Testing), Apr 28
+### Week 13 (REMOTE) - [User Testing Workshop](https://github.com/nature-of-code/noc-syllabus-S20/wiki/User-Testing), Apr 28
 
-### Week 14 - [Final Project Presentations](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Final-Projects), May 5
+### Week 14 (REMOTE) - [Final Project Presentations](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Final-Projects), May 5
 
 ## Land Acknowledgement
 
