@@ -8,6 +8,11 @@
 * Watch [Seeing Machines Think — Martin Wattenberg and Fernanda Viégas](https://youtu.be/ugkfmHBW74Q)
 * Watch [Kyle McDonald - Weird Intelligence](https://vimeo.com/304110435)
 
+## Teachable Machine
+* [Teachable Machine 2.0: Making AI easier for everyone](https://youtu.be/T2qQGqZxkD0) from Google
+* [Google's Teachable Machine video tutorials](https://www.youtube.com/playlist?list=PLJfHZtseuscuTQfodmFnbZ3rBgCWsRT9t)
+* [Coding Train Teachable Machine video tutorials](https://thecodingtrain.com/tm)
+
 ## ml5.js
 * [ml5 website](https://ml5js.org/), [ml5 github](https://github.com/ml5js)
 * [Introduction to Machine Learning slides](https://docs.google.com/presentation/d/1C5V6YOs4hgWFeKKdpGwNjeRLuYOCwipLlSzKNOzsUnQ/edit). These slides are from @joeyklee's [friendly introduction to machine learning and ml5.js - workshop](https://github.com/ml5js/ml5-friendly-intro-to-ml-2019f#introduction-to-machine-learning) and also based off of @yining1023's [Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web)
