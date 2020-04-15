@@ -1,7 +1,7 @@
 # Neuro-Evolution
 
 ## ml5 NeuroEvolution
-* TBA!
+* COMING SOON!
 
 ## Other NeuroEvolution examples
 * [Flappy Learning](https://github.com/xviniette/FlappyLearning) by @xviniette
