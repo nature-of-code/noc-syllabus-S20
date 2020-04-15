@@ -26,19 +26,17 @@ Can we capture the unpredictable evolutionary and emergent properties of nature 
 
 ### No class Tuesday, March 17
 
-### Week 8 (REMOTE) - [Genetic Algorithms](week08-genetic-algorithm), Mar 24
+### Session 8 (REMOTE) - Physics Libraries, Flocking, and Simulation project Catch-up, Mar 24
 
-### Week 9 (REMOTE) - [Neural Networks](week09-neural-network), Mar 31
+### Session 9 (REMOTE) - [Genetic Algorithms](week08-genetic-algorithm), Mar 31
 
-### Week 10 (REMOTE) - [Neuro-evolution](week10-neuroevolution), April 7
+### Session 10 (REMOTE) - [Neural Networks](week09-neural-network), April 14
 
-### Week 11 (REMOTE) - [Final Project Proposals](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Project-Proposals), Apr 14
+### Session 11 (REMOTE) - [Neuro-evolution](week10-neuroevolution), **Friday, April 17**
 
-### Week 12 (REMOTE) - [Final Project Proposals](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Project-Proposals), Apr 21
+### Session 12 + 13 (REMOTE) - [Final Project Development](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Project-Proposals)
 
-### Week 13 (REMOTE) - [User Testing Workshop](https://github.com/nature-of-code/noc-syllabus-S20/wiki/User-Testing), Apr 28
-
-### Week 14 (REMOTE) - [Final Project Presentations](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Final-Projects), May 5
+### Session 14 (REMOTE) - [Final Project Presentations](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Final-Projects), May 5
 
 ## Land Acknowledgement
 

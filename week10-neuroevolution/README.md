@@ -1,20 +1,7 @@
 # Neuro-Evolution
 
-## TensorFlow.js
-* [Intro to TensorFlow.js video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ): 6.5 and 6.6 are the most relevant in terms of the Layers API as applied below.
-* [Demo: Flappy Bird Learning](https://shiffman.github.io/Tensorflow-JS-Examples/04_neuro_evolution_flappy/), [Code: Flappy Bird Learning](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/04_neuro_evolution_flappy)
-* [Demo: Loading Saved Model](https://shiffman.github.io/Tensorflow-JS-Examples/04_neuro_load_flappy/), [Code: Loading Saved Model](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/04_neuro_load_flappy)
-* [Demo: Steering Evolution](https://shiffman.github.io/Tensorflow-JS-Examples/05_neuro_evolution_steering/), [Code: Steering Evolution](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/05_neuro_evolution_steering) 
-
-## Toy-Neural-Network
-* Neuro-Evolution Flappy Bird Coding Challenge
-    * [NeuroEvolution Video Part 1](https://thecodingtrain.com/CodingChallenges/100.1-neuroevolution-flappy-bird.html)
-    * [NeuroEvolution Video Part 2](https://thecodingtrain.com/CodingChallenges/100.2-neuroevolution-flappy-bird.html)
-    * [NeuroEvolution Video Part 3](https://thecodingtrain.com/CodingChallenges/100.3-neuroevolution-flappy-bird.html)
-    * [NeuroEvolution Video Part 4](https://thecodingtrain.com/CodingChallenges/100.4-neuroevolution-flappy-bird.html)
-    * [NeuroEvolution Video Part 5](https://thecodingtrain.com/CodingChallenges/100.5-neuroevolution-flappy-bird.html)
-    * [NeuroEvolution Training Demo](https://thecodingtrain.com/CodingChallenges/CC_100.1_NeuroEvolution_FlappyBird/P5/)
-    * [NeuroEvolution Loading Trained Model Demo](https://thecodingtrain.com/CodingChallenges/CC_100.5_NeuroEvolution_FlappyBird/P5/)
+## ml5 NeuroEvolution
+* COMING SOON!
 
 ## Other NeuroEvolution examples
 * [Flappy Learning](https://github.com/xviniette/FlappyLearning) by @xviniette
@@ -31,6 +18,23 @@ Augmenting Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
 * [NeuroEvolution](https://en.wikipedia.org/wiki/Neuroevolution) on Wikipedia
 * [Neuroevolution of augmenting topologies aka NEAT](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) on Wikipedia
 
+## 2018 - 2019 tf.js and toy neural network examples
+
+### TensorFlow.js
+* [Intro to TensorFlow.js video playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YIeVA3dNxbR9PYj4wV31oQ): 6.5 and 6.6 are the most relevant in terms of the Layers API as applied below.
+* [Demo: Flappy Bird Learning](https://shiffman.github.io/Tensorflow-JS-Examples/04_neuro_evolution_flappy/), [Code: Flappy Bird Learning](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/04_neuro_evolution_flappy)
+* [Demo: Loading Saved Model](https://shiffman.github.io/Tensorflow-JS-Examples/04_neuro_load_flappy/), [Code: Loading Saved Model](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/04_neuro_load_flappy)
+* [Demo: Steering Evolution](https://shiffman.github.io/Tensorflow-JS-Examples/05_neuro_evolution_steering/), [Code: Steering Evolution](https://github.com/shiffman/Tensorflow-JS-Examples/tree/master/05_neuro_evolution_steering) 
+
+### Toy-Neural-Network
+* Neuro-Evolution Flappy Bird Coding Challenge
+    * [NeuroEvolution Video Part 1](https://thecodingtrain.com/CodingChallenges/100.1-neuroevolution-flappy-bird.html)
+    * [NeuroEvolution Video Part 2](https://thecodingtrain.com/CodingChallenges/100.2-neuroevolution-flappy-bird.html)
+    * [NeuroEvolution Video Part 3](https://thecodingtrain.com/CodingChallenges/100.3-neuroevolution-flappy-bird.html)
+    * [NeuroEvolution Video Part 4](https://thecodingtrain.com/CodingChallenges/100.4-neuroevolution-flappy-bird.html)
+    * [NeuroEvolution Video Part 5](https://thecodingtrain.com/CodingChallenges/100.5-neuroevolution-flappy-bird.html)
+    * [NeuroEvolution Training Demo](https://thecodingtrain.com/CodingChallenges/CC_100.1_NeuroEvolution_FlappyBird/P5/)
+    * [NeuroEvolution Loading Trained Model Demo](https://thecodingtrain.com/CodingChallenges/CC_100.5_NeuroEvolution_FlappyBird/P5/)
 
 # Reinforcement Learning / Q-Learning
 
