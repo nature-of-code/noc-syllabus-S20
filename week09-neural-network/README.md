@@ -1,5 +1,7 @@
 # Machine Learning and Neural Networks
 
+**[google doc notes and assignment for Neural Networks](https://docs.google.com/document/d/1Q_QH8gbMkNA4LaZeJznGFNYGuqgM7hy-X6Zukdu0dgM/edit?usp=sharing)**
+
 ## Machine Learning Reading
 * [A People’s Guide to AI](https://www.alliedmedia.org/files/peoples-guide-ai.pdf) by Mimi Onuoha and Mother Cyborg (Diana Nucera)
 * [Data & Society’s Algorithmic Accountability: A Primer](https://datasociety.net/wp-content/uploads/2018/04/Data_Society_Algorithmic_Accountability_Primer_FINAL-4.pdf)
@@ -19,7 +21,6 @@
 * [Intro to ml5.js video tutorial](https://youtu.be/jmznx0Q1fP0?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
 * [Train Your Own Neural Network with ml5.js video tutorial](https://thecodingtrain.com/learning/ml5/6.1-train-your-own.html)
 * [Teachable Machine with ml5.js](https://thecodingtrain.com/TeachableMachine/)
-
 
 ## What is a Neural Network?
 * [Neural Networks (Nature of Code Chapter 10)](http://natureofcode.com/book/chapter-10-neural-networks/)
@@ -44,3 +45,7 @@
 * Classification and regression both involve making a "prediction" based on input data.
 * Classification refers to predicting an output with a discrete set of possibilities like a set of categories or labels. For example: "Given an input image, is it a dog or cat?"
 * Regression refers to predicting an "continuous" output (a fancy way of saying number). For example: "Given the number of bedrooms, what is the price of a house?" or "Given an input image of a cat, how much does the cat weigh?"
+
+## Homework
+* [Assignment 6](https://github.com/nature-of-code/noc-syllabus-S20/wiki/Assignment-5)
+
